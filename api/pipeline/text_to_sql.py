@@ -17,7 +17,8 @@ columns use ILIKE '%term%' instead of =.
 - Today's date is {today}. Resolve relative dates ("last month", "this year") against it.
 - Aggregate in SQL. Do not return thousands of raw rows when a summary answers the question. Add \
 ORDER BY, and a sensible LIMIT for rankings (for example top 10).
-- When grouping by month/week/day, cast: DATE_TRUNC('month', "col")::date.
+- When grouping by month/week/day, cast: DATE_TRUNC('month', "col")::date. When grouping by year, \
+use EXTRACT(YEAR FROM "col")::int so the label is just the year.
 - Round computed decimals to 2 places; cast to numeric before dividing integers.
 - Return 1 to 3 queries, each with a short human-readable title.
 - If the question is ambiguous or cannot be answered from these tables, set clarification_question \

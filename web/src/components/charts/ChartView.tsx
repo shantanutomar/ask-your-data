@@ -93,7 +93,7 @@ export function ChartView({ spec, table }: { spec: ChartSpec; table: TableData |
   const legend = keys.length > 1 ? <Legend /> : null;
   const grid = <CartesianGrid stroke="var(--line)" strokeDasharray="3 3" />;
   const xAxis = <XAxis dataKey={spec.x} label={xLabel} {...axisProps} />;
-  const yAxis = <YAxis label={yLabel} {...axisProps} />;
+  const yAxis = <YAxis label={yLabel} width={yLabel ? 84 : 60} {...axisProps} />;
 
   let chart: React.ReactElement;
   if (spec.type === "bar") {
@@ -172,7 +172,14 @@ export function ChartView({ spec, table }: { spec: ChartSpec; table: TableData |
       <ScatterChart margin={common.margin}>
         {grid}
         <XAxis dataKey="x" type="number" name={spec.x} label={xLabel} {...axisProps} />
-        <YAxis dataKey="y" type="number" name={yKey} label={yLabel} {...axisProps} />
+        <YAxis
+          dataKey="y"
+          type="number"
+          name={yKey}
+          label={yLabel}
+          width={yLabel ? 84 : 60}
+          {...axisProps}
+        />
         {tooltip}
         <Scatter data={numeric} fill={COLORS[0]} />
       </ScatterChart>
