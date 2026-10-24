@@ -1,0 +1,201 @@
+id,name,email,country,region,segment,signup_date
+1,Alex Nguyen,user1@example.com,Germany,Europe,Consumer,2025-09-08
+2,Taylor Anderson,user2@example.com,United States,North America,Enterprise,2025-03-31
+3,Alex Brown,user3@example.com,United Kingdom,Europe,Consumer,2025-08-12
+4,Alex Anderson,user4@example.com,United Kingdom,Europe,Enterprise,2025-07-23
+5,Olivia Dubois,user5@example.com,Germany,Europe,Small Business,2025-08-14
+6,Alex Davis,user6@example.com,Germany,Europe,Small Business,2026-03-09
+7,Casey Rossi,user7@example.com,United States,North America,Consumer,2025-04-15
+8,Chen Silva,user8@example.com,Canada,North America,Consumer,2025-09-28
+9,Olivia Garcia,user9@example.com,France,Europe,Consumer,2026-01-23
+10,Hans Silva,user10@example.com,Germany,Europe,Enterprise,2025-07-16
+11,Jamie Muller,user11@example.com,United States,North America,Consumer,2025-03-23
+12,Mateo Nguyen,user12@example.com,Japan,Asia,Enterprise,2026-04-10
+13,Riley Silva,user13@example.com,India,Asia,Consumer,2025-12-30
+14,Jordan Young,user14@example.com,France,Europe,Enterprise,2025-06-25
+15,Riley Khan,user15@example.com,France,Europe,Small Business,2026-01-24
+16,Olivia Kim,user16@example.com,Brazil,South America,Consumer,2025-11-29
+17,Sam Rossi,user17@example.com,United States,North America,Small Business,2026-02-15
+18,Yuki Rossi,user18@example.com,United States,North America,Enterprise,2025-08-06
+19,Liam Miller,user19@example.com,United Kingdom,Europe,Consumer,2025-09-29
+20,Olivia Anderson,user20@example.com,United States,North America,Enterprise,2025-09-27
+21,Yuki Sato,user21@example.com,Germany,Europe,Consumer,2026-01-06
+22,Morgan Wilson,user22@example.com,Brazil,South America,Consumer,2026-05-21
+23,Taylor Miller,user23@example.com,India,Asia,Enterprise,2025-06-13
+24,Jordan Sato,user24@example.com,United Kingdom,Europe,Enterprise,2026-01-26
+25,Emma Nguyen,user25@example.com,Brazil,South America,Enterprise,2025-01-12
+26,Olivia Nguyen,user26@example.com,France,Europe,Consumer,2025-12-15
+27,Riley Khan,user27@example.com,United States,North America,Enterprise,2025-01-04
+28,Avery Wilson,user28@example.com,Japan,Asia,Enterprise,2025-07-02
+29,Quinn Wilson,user29@example.com,Australia,Oceania,Consumer,2025-07-23
+30,Riley Anderson,user30@example.com,Canada,North America,Enterprise,2025-01-01
+31,Alex Garcia,user31@example.com,United States,North America,Small Business,2026-01-07
+32,Jamie Clark,user32@example.com,United States,North America,Consumer,2025-03-22
+33,Jordan Anderson,user33@example.com,France,Europe,Consumer,2025-05-09
+34,Olivia Davis,user34@example.com,Germany,Europe,Enterprise,2025-09-29
+35,Sofia Patel,user35@example.com,Japan,Asia,Enterprise,2025-07-25
+36,Chen Khan,user36@example.com,United States,North America,Small Business,2026-06-14
+37,Jamie Brown,user37@example.com,United States,North America,Consumer,2025-12-13
+38,Jamie Clark,user38@example.com,Germany,Europe,Consumer,2025-08-14
+39,Sam Kim,user39@example.com,United States,North America,Consumer,2025-03-11
+40,Jordan Wilson,user40@example.com,Japan,Asia,Small Business,2025-09-01
+41,Casey Anderson,user41@example.com,France,Europe,Enterprise,2025-05-16
+42,Yuki Clark,user42@example.com,Australia,Oceania,Consumer,2026-04-30
+43,Sofia Patel,user43@example.com,India,Asia,Consumer,2025-04-07
+44,Chen Dubois,user44@example.com,Germany,Europe,Small Business,2026-02-25
+45,Sam Garcia,user45@example.com,Japan,Asia,Small Business,2025-03-04
+46,Taylor Kim,user46@example.com,France,Europe,Consumer,2025-07-16
+47,Morgan Dubois,user47@example.com,United Kingdom,Europe,Small Business,2025-07-07
+48,Jordan Khan,user48@example.com,United Kingdom,Europe,Consumer,2025-04-11
+49,Olivia Smith,user49@example.com,Germany,Europe,Consumer,2025-04-06
+50,Noah Lopez,user50@example.com,United States,North America,Small Business,2025-08-07
+51,Riley Sato,user51@example.com,Australia,Oceania,Small Business,2025-01-03
+52,Liam Muller,user52@example.com,United States,North America,Enterprise,2026-03-10
+53,Olivia Lopez,user53@example.com,Brazil,South America,Consumer,2025-06-08
+54,Sam Clark,user54@example.com,United States,North America,Enterprise,2025-03-04
+55,Sam Clark,user55@example.com,United States,North America,Enterprise,2026-05-04
+56,Emma Davis,user56@example.com,Australia,Oceania,Enterprise,2025-02-28
+57,Riley Brown,user57@example.com,United States,North America,Enterprise,2025-03-11
+58,Mateo Garcia,user58@example.com,Japan,Asia,Enterprise,2025-09-10
+59,Hans Brown,user59@example.com,Germany,Europe,Enterprise,2026-03-06
+60,Emma Rossi,user60@example.com,Germany,Europe,Consumer,2025-09-25
+61,Priya Kim,user61@example.com,France,Europe,Small Business,2025-09-29
+62,Quinn Khan,user62@example.com,United States,North America,Consumer,2025-11-20
+63,Hans Clark,user63@example.com,United States,North America,Consumer,2025-04-13
+64,Emma Nguyen,user64@example.com,United Kingdom,Europe,Small Business,2025-05-16
+65,Jamie Silva,user65@example.com,Japan,Asia,Consumer,2025-10-19
+66,Olivia Muller,user66@example.com,United Kingdom,Europe,Enterprise,2025-01-09
+67,Quinn Garcia,user67@example.com,India,Asia,Small Business,2025-05-18
+68,Taylor Anderson,user68@example.com,United States,North America,Small Business,2025-06-09
+69,Casey Rossi,user69@example.com,United States,North America,Enterprise,2025-07-28
+70,Avery Wilson,user70@example.com,Germany,Europe,Small Business,2026-05-16
+71,Sam Brown,user71@example.com,Australia,Oceania,Small Business,2026-03-10
+72,Priya Miller,user72@example.com,United States,North America,Consumer,2025-09-26
+73,Olivia Dubois,user73@example.com,India,Asia,Consumer,2025-01-10
+74,Morgan Anderson,user74@example.com,United States,North America,Small Business,2025-02-06
+75,Morgan Dubois,user75@example.com,Germany,Europe,Consumer,2025-05-11
+76,Sam Silva,user76@example.com,United States,North America,Enterprise,2025-08-04
+77,Taylor Silva,user77@example.com,United States,North America,Enterprise,2026-02-21
+78,Jamie Davis,user78@example.com,India,Asia,Small Business,2025-07-01
+79,Priya Dubois,user79@example.com,United States,North America,Small Business,2025-09-12
+80,Taylor Sato,user80@example.com,United States,North America,Small Business,2025-02-09
+81,Liam Silva,user81@example.com,United States,North America,Consumer,2025-11-09
+82,Casey Sato,user82@example.com,United States,North America,Small Business,2025-12-03
+83,Avery Silva,user83@example.com,Japan,Asia,Small Business,2026-06-06
+84,Olivia Rossi,user84@example.com,France,Europe,Consumer,2025-01-29
+85,Avery Davis,user85@example.com,Japan,Asia,Consumer,2025-09-29
+86,Sofia Silva,user86@example.com,United States,North America,Small Business,2025-11-18
+87,Emma Garcia,user87@example.com,Germany,Europe,Enterprise,2026-01-30
+88,Sam Dubois,user88@example.com,United States,North America,Enterprise,2025-01-02
+89,Olivia Patel,user89@example.com,Australia,Oceania,Small Business,2026-01-08
+90,Priya Young,user90@example.com,United States,North America,Enterprise,2025-11-18
+91,Quinn Wilson,user91@example.com,Japan,Asia,Enterprise,2025-11-13
+92,Mateo Muller,user92@example.com,Canada,North America,Consumer,2025-05-11
+93,Mateo Davis,user93@example.com,United Kingdom,Europe,Small Business,2025-11-05
+94,Alex Muller,user94@example.com,Germany,Europe,Consumer,2025-10-21
+95,Yuki Young,user95@example.com,United Kingdom,Europe,Small Business,2025-11-26
+96,Casey Wilson,user96@example.com,United Kingdom,Europe,Enterprise,2026-04-30
+97,Jordan Muller,user97@example.com,United States,North America,Enterprise,2026-06-12
+98,Priya Brown,user98@example.com,Germany,Europe,Enterprise,2025-08-29
+99,Casey Miller,user99@example.com,United States,North America,Consumer,2025-01-26
+100,Noah Young,user100@example.com,United States,North America,Small Business,2025-03-16
+101,Yuki Patel,user101@example.com,Canada,North America,Small Business,2026-01-29
+102,Morgan Smith,user102@example.com,Canada,North America,Small Business,2025-04-20
+103,Emma Khan,user103@example.com,United States,North America,Enterprise,2025-02-21
+104,Taylor Khan,user104@example.com,United States,North America,Small Business,2025-05-17
+105,Olivia Young,user105@example.com,France,Europe,Small Business,2025-11-21
+106,Emma Dubois,user106@example.com,Germany,Europe,Consumer,2026-04-02
+107,Noah Khan,user107@example.com,India,Asia,Consumer,2025-09-23
+108,Avery Wilson,user108@example.com,India,Asia,Enterprise,2026-05-12
+109,Liam Brown,user109@example.com,United States,North America,Consumer,2025-10-20
+110,Priya Anderson,user110@example.com,United States,North America,Consumer,2025-03-24
+111,Mateo Miller,user111@example.com,United States,North America,Consumer,2025-08-08
+112,Priya Anderson,user112@example.com,Canada,North America,Small Business,2026-04-23
+113,Sofia Sato,user113@example.com,United States,North America,Enterprise,2025-01-21
+114,Alex Silva,user114@example.com,Canada,North America,Small Business,2025-11-02
+115,Sofia Anderson,user115@example.com,Japan,Asia,Small Business,2025-08-14
+116,Sofia Lopez,user116@example.com,United States,North America,Small Business,2025-01-30
+117,Mateo Davis,user117@example.com,United States,North America,Consumer,2026-04-24
+118,Olivia Smith,user118@example.com,Brazil,South America,Enterprise,2026-02-08
+119,Alex Brown,user119@example.com,Germany,Europe,Consumer,2026-03-15
+120,Riley Johnson,user120@example.com,Japan,Asia,Small Business,2025-09-24
+121,Liam Rossi,user121@example.com,United States,North America,Small Business,2025-12-12
+122,Sofia Nguyen,user122@example.com,United States,North America,Small Business,2025-03-25
+123,Olivia Johnson,user123@example.com,United States,North America,Consumer,2025-12-25
+124,Sam Smith,user124@example.com,Germany,Europe,Consumer,2025-09-11
+125,Hans Miller,user125@example.com,India,Asia,Consumer,2025-09-02
+126,Taylor Clark,user126@example.com,United Kingdom,Europe,Small Business,2025-08-12
+127,Chen Davis,user127@example.com,France,Europe,Consumer,2025-04-28
+128,Taylor Clark,user128@example.com,Brazil,South America,Small Business,2025-01-27
+129,Mateo Sato,user129@example.com,Germany,Europe,Consumer,2025-07-23
+130,Jamie Garcia,user130@example.com,Germany,Europe,Enterprise,2025-11-05
+131,Taylor Clark,user131@example.com,Germany,Europe,Small Business,2025-02-12
+132,Chen Brown,user132@example.com,United Kingdom,Europe,Enterprise,2026-06-03
+133,Sofia Lopez,user133@example.com,Canada,North America,Small Business,2025-04-19
+134,Liam Miller,user134@example.com,Brazil,South America,Consumer,2026-03-22
+135,Avery Young,user135@example.com,France,Europe,Small Business,2026-05-11
+136,Yuki Nguyen,user136@example.com,United Kingdom,Europe,Consumer,2025-11-27
+137,Jordan Nguyen,user137@example.com,India,Asia,Consumer,2026-04-07
+138,Yuki Young,user138@example.com,India,Asia,Small Business,2026-01-24
+139,Priya Davis,user139@example.com,United States,North America,Consumer,2026-05-15
+140,Avery Rossi,user140@example.com,Canada,North America,Enterprise,2025-10-14
+141,Avery Anderson,user141@example.com,France,Europe,Enterprise,2025-01-11
+142,Jordan Kim,user142@example.com,Australia,Oceania,Small Business,2026-02-21
+143,Jamie Lopez,user143@example.com,Germany,Europe,Small Business,2026-05-18
+144,Jordan Muller,user144@example.com,India,Asia,Small Business,2025-08-15
+145,Quinn Clark,user145@example.com,France,Europe,Small Business,2026-01-13
+146,Chen Dubois,user146@example.com,Germany,Europe,Small Business,2025-12-05
+147,Avery Muller,user147@example.com,France,Europe,Consumer,2025-09-15
+148,Casey Rossi,user148@example.com,United States,North America,Enterprise,2025-05-03
+149,Riley Patel,user149@example.com,United Kingdom,Europe,Enterprise,2025-08-10
+150,Yuki Wilson,user150@example.com,United Kingdom,Europe,Consumer,2025-10-17
+151,Quinn Kim,user151@example.com,India,Asia,Consumer,2026-01-05
+152,Olivia Miller,user152@example.com,United States,North America,Consumer,2025-10-08
+153,Olivia Muller,user153@example.com,Brazil,South America,Enterprise,2025-05-10
+154,Noah Garcia,user154@example.com,Japan,Asia,Enterprise,2025-01-13
+155,Noah Khan,user155@example.com,United States,North America,Consumer,2025-12-15
+156,Avery Lopez,user156@example.com,Brazil,South America,Consumer,2025-04-27
+157,Jordan Clark,user157@example.com,Canada,North America,Consumer,2025-02-24
+158,Yuki Muller,user158@example.com,United States,North America,Consumer,2025-03-29
+159,Sofia Young,user159@example.com,United States,North America,Enterprise,2025-08-20
+160,Liam Muller,user160@example.com,Canada,North America,Small Business,2026-03-16
+161,Sam Young,user161@example.com,Germany,Europe,Consumer,2025-04-12
+162,Avery Brown,user162@example.com,Germany,Europe,Consumer,2025-06-10
+163,Jordan Davis,user163@example.com,United States,North America,Small Business,2025-01-03
+164,Hans Lopez,user164@example.com,United Kingdom,Europe,Consumer,2025-10-26
+165,Quinn Khan,user165@example.com,United States,North America,Enterprise,2025-03-14
+166,Avery Clark,user166@example.com,United States,North America,Small Business,2025-07-22
+167,Jamie Miller,user167@example.com,United States,North America,Consumer,2025-09-30
+168,Riley Muller,user168@example.com,United States,North America,Small Business,2025-10-23
+169,Quinn Sato,user169@example.com,United States,North America,Enterprise,2025-10-06
+170,Liam Brown,user170@example.com,United Kingdom,Europe,Small Business,2025-02-10
+171,Hans Nguyen,user171@example.com,France,Europe,Consumer,2025-01-27
+172,Yuki Clark,user172@example.com,United States,North America,Enterprise,2025-01-22
+173,Yuki Johnson,user173@example.com,India,Asia,Small Business,2025-06-29
+174,Liam Nguyen,user174@example.com,United Kingdom,Europe,Enterprise,2025-07-05
+175,Noah Brown,user175@example.com,United Kingdom,Europe,Small Business,2026-04-27
+176,Priya Garcia,user176@example.com,Canada,North America,Small Business,2025-06-14
+177,Noah Muller,user177@example.com,Canada,North America,Enterprise,2026-02-15
+178,Jordan Rossi,user178@example.com,United States,North America,Small Business,2025-09-16
+179,Mateo Wilson,user179@example.com,United States,North America,Enterprise,2025-01-02
+180,Liam Dubois,user180@example.com,Japan,Asia,Consumer,2025-02-25
+181,Hans Lopez,user181@example.com,United Kingdom,Europe,Consumer,2026-03-29
+182,Olivia Miller,user182@example.com,United States,North America,Small Business,2025-10-22
+183,Noah Garcia,user183@example.com,Japan,Asia,Enterprise,2025-01-30
+184,Jamie Davis,user184@example.com,Germany,Europe,Enterprise,2025-11-15
+185,Sofia Brown,user185@example.com,United States,North America,Consumer,2025-08-19
+186,Taylor Miller,user186@example.com,United Kingdom,Europe,Enterprise,2026-05-26
+187,Avery Dubois,user187@example.com,United States,North America,Small Business,2026-05-10
+188,Olivia Miller,user188@example.com,United States,North America,Consumer,2026-01-28
+189,Emma Miller,user189@example.com,Australia,Oceania,Small Business,2025-03-13
+190,Sofia Rossi,user190@example.com,India,Asia,Small Business,2026-06-04
+191,Quinn Muller,user191@example.com,India,Asia,Consumer,2026-05-17
+192,Noah Silva,user192@example.com,United Kingdom,Europe,Enterprise,2025-12-07
+193,Mateo Khan,user193@example.com,India,Asia,Consumer,2025-11-26
+194,Jamie Clark,user194@example.com,Brazil,South America,Consumer,2026-01-28
+195,Sofia Johnson,user195@example.com,Japan,Asia,Enterprise,2025-11-22
+196,Mateo Sato,user196@example.com,United Kingdom,Europe,Small Business,2025-06-05
+197,Morgan Wilson,user197@example.com,Brazil,South America,Consumer,2025-12-06
+198,Liam Garcia,user198@example.com,Japan,Asia,Small Business,2026-06-23
+199,Morgan Dubois,user199@example.com,United States,North America,Consumer,2025-06-08
+200,Avery Rossi,user200@example.com,United Kingdom,Europe,Enterprise,2026-02-12

@@ -1,0 +1,33 @@
+id,name,category,price,cost
+1,Notebook Computer 14in,Notebook Computers,899.0,463.94
+2,Notebook Computer 16in,Notebook Computers,1299.0,734.86
+3,Ultrabook Pro,Notebook Computers,1599.0,1015.16
+4,Gaming Laptop X,Notebook Computers,1899.0,1152.17
+5,Wireless Mouse,Computer Accessories,29.0,20.03
+6,Mechanical Keyboard,Computer Accessories,89.0,55.66
+7,USB-C Hub,Computer Accessories,49.0,33.2
+8,Laptop Stand,Computer Accessories,39.0,23.31
+9,Webcam HD,Computer Accessories,59.0,35.88
+10,27in Monitor,Displays,329.0,205.13
+11,32in 4K Monitor,Displays,549.0,300.28
+12,Portable Monitor,Displays,199.0,126.74
+13,Noise Cancelling Headphones,Audio,249.0,138.81
+14,Bluetooth Speaker,Audio,79.0,43.09
+15,Earbuds,Audio,129.0,66.83
+16,Studio Microphone,Audio,159.0,110.61
+17,Smartphone Pro,Mobile Phones,999.0,651.42
+18,Smartphone Lite,Mobile Phones,499.0,319.75
+19,Phone Case,Mobile Phones,19.0,9.88
+20,Wireless Charger,Mobile Phones,35.0,18.66
+21,Tablet 10in,Tablets,429.0,240.19
+22,Tablet Mini,Tablets,329.0,166.4
+23,Stylus Pen,Tablets,69.0,38.98
+24,Smart Watch,Wearables,299.0,152.86
+25,Fitness Band,Wearables,99.0,56.6
+26,Router AX,Networking,139.0,81.47
+27,Mesh Wi-Fi 3-pack,Networking,279.0,153.13
+28,Ethernet Switch 8-port,Networking,45.0,26.21
+29,External SSD 1TB,Storage,109.0,69.36
+30,External SSD 2TB,Storage,189.0,101.31
+31,USB Flash Drive 128GB,Storage,19.0,10.17
+32,Network Storage 4-bay,Storage,449.0,279.23
